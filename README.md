@@ -1,0 +1,2 @@
+# Anonick
+Throwaway account generator.
